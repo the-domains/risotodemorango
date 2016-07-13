@@ -1,7 +1,7 @@
 name: Risoto de Morango
 favicon: null
-layout_spectrum: 0.6279675557743758
-typography_spectrum: 0.3155129214283079
+layout_spectrum: 0.29078
+typography_spectrum: 0.49663
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#161616'
+    - '#b5b88d'
+    - '#676668'
+    - '#a51c1e'
+    - '#35aba3'
   brandStrength: 0.7456125672906637
   lightness: 0.35340276500210166
   saturation: 0.8909151637926698
