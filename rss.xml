@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Risoto de Morango]]></title>
         <description><![CDATA[Risoto de Morango]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/risotodemorango/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 00:43:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 01:02:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/risotodemorango/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88ee1025-8f62-4bb1-919e-7d29616da674.jpg">]]></description>
-            <link>undefinede805114c-4ae3-455f-8c26-36d6604fcba5/index.html</link>
-            <guid isPermaLink="false">e805114c-4ae3-455f-8c26-36d6604fcba5</guid>
-            <pubDate>Wed, 13 Jul 2016 00:43:46 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a944d0-33eb-4759-80f9-502f56c9d5bc.jpg">]]></description>
+            <link>https://thegrid.ai/risotodemorango/mais-frutas/index.html</link>
+            <guid isPermaLink="false">2dce7fd7-cd88-4db6-9a20-ccf3b34a045a</guid>
+            <pubDate>Wed, 13 Jul 2016 01:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/260d541e-4f46-4358-a854-f9ea5cb5d49a.jpg">]]></description>
+            <link>https://thegrid.ai/risotodemorango/nao-tao-morango-assim/index.html</link>
+            <guid isPermaLink="false">7d8f950e-fbab-4d62-81d5-24c9ee7fada0</guid>
+            <pubDate>Wed, 13 Jul 2016 00:57:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
